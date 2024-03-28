@@ -1,0 +1,11 @@
+.ConfirmationCard {
+  height: 350px;
+  width: 350px;
+  background-color: white;
+  border-radius: 5%;
+  padding: 50px;
+}
+
+.icon {
+  width: 45px;
+}
